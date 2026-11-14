@@ -1,11 +1,11 @@
-  # Ravi Teja — Java Full Stack Developer | 102 Projects — Work Proofs
+# Ravi Teja — Java Full Stack Developer | 102 Projects — Work Proofs
 
 ### 📍 Andhra Pradesh, India | Open to Opportunities
 [LinkedIn](https://www.linkedin.com/in/vemulaleelavenkataraviteja/) • [Email](mailto:vemularaviteja06@gmail.com) • [GitHub](https://github.com/raviteja-dev950)
 
 > **102 / 102 Projects Completed — 100% — 20 July 2026 → 06 Nov 2026 — 109 Days — Proof Inside**
 
-[Roadmap](screenshots/demo7.png)
+[Roadmap](https://raw.githubusercontent.com/raviteja-dev950/102-work-proofs/main/roadmap/102-roadmap-final.png)
 
 ---
 
@@ -27,38 +27,38 @@
 **All proofs are in `screenshots/` folder in this repo — same as your local `E:\Java-100-Projects` + `E:\Java Projects`**
 
 ### Tier 1 — Foundations (01-12) — 20-07-2026 to 21-07-2026
-[Tier 1 Proof](screenshots/demo1.png)
+[Tier 1 Proof](https://raw.githubusercontent.com/raviteja-dev950/102-work-proofs/main/screenshots/demo1.png)
 > `01-cli-calculator` 20-07-2026 11:06 AM → `12-contact-book` 21-07-2026 07:44 PM
 > `.metadata` and `_pasted_code_` are IDE junk — NOT counted as projects.
 
 ### Tier 2 + Tier 3 — JDBC + Web (13-32) — 22-07-2026 to 30-07-2026
-[Tier 2-3 Proof](screenshots/demo2.png)
+[Tier 2-3 Proof](https://raw.githubusercontent.com/raviteja-dev950/102-work-proofs/main/screenshots/demo2.png)
 > `13-library-management` 22-07-2026 → `32-simple-blog` 30-07-2026 06:19 PM
 > Includes `54-reat-auth-ui` typo folder — fixed to `54-react-auth-ui` in final repos.
 
 ### Tier 4 + Tier 5 + Tier 6 Start — Spring + REST + React (33-55) — 01-08-2026 to 15-08-2026
-[Tier 4-6 Proof](screenshots/demo3.png)
+[Tier 4-6 Proof](https://raw.githubusercontent.com/raviteja-dev950/102-work-proofs/main/screenshots/demo3.png)
 > `33-spring-mvc-hello` 01-08-2026 → `55-dashboard` 15-08-2026
 > Duplicates cleaned: `55-dashboard` / `55-dashboard-api` / `55-dashboard-ui` → 1 project `55-dashboard-ui` in GitHub.
 
 ### Tier 6 + Tier 7 — Frontend + Full Stack (55-72) — 15-08-2026 to 08-09-2026
-[Tier 6-7 Proof](screenshots/demo4.png)
+[Tier 6-7 Proof](https://raw.githubusercontent.com/raviteja-dev950/102-work-proofs/main/screenshots/demo4.png)
 > `56-blog-backend` + `56-blog-frontend` → 1 repo `56-blog-frontend`
 > Same for 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67 — backend + frontend merged into 1 repo per project.
 
 ### Tier 8 + Tier 9 + Tier 10 Start — Microservices + DevOps + Scale (73-99) — 09-09-2026 to 04-11-2026
-[Tier 8-10 Proof](screenshots/demo5.png)
+[Tier 8-10 Proof](https://raw.githubusercontent.com/raviteja-dev950/102-work-proofs/main/screenshots/demo5.png)
 > `73-auth-service` 09-09-2026 → `99-multi-tenant-saas` 04-11-2026 01:13 AM
 > `Linux`, `RemoteSystemsTempFiles`, `Servers`, `.project` are IDE junk — NOT counted.
 
 ### Tier 10 Final — 100, 101, 102 — 05-11-2026 to 06-11-2026
-[Tier 10 Final Proof](screenshots/demo6.png)
+[Tier 10 Final Proof](https://raw.githubusercontent.com/raviteja-dev950/102-work-proofs/main/screenshots/demo6.png)
 > `100-audit-log-system` 05-11-2026 12:18 AM
 > `101-subscription-saas` 05-11-2026 08:01 PM — Live 2m39s `538919a`
 > `102-capstone-oss-tool` 06-11-2026 12:41 AM — Live 2m44s `ea4a2cb` — FINAL
 
 ### Roadmap Followed — 102/102 100% FINAL
-[Roadmap](screenshots/demo7.png)
+[Roadmap](https://raw.githubusercontent.com/raviteja-dev950/102-work-proofs/main/screenshots/demo7.jpg)
 > Roadmap followed exactly: Tier 1 → Tier 10, no deviation.
 > Tier 10 shows `Multi-tenant SaaS` — fixed spelling in final roadmap.
 
