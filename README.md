@@ -1,11 +1,11 @@
-# Ravi Teja — Java Full Stack Developer | 102 Projects — Work Proofs
+  # Ravi Teja — Java Full Stack Developer | 102 Projects — Work Proofs
 
 ### 📍 Andhra Pradesh, India | Open to Opportunities
 [LinkedIn](https://www.linkedin.com/in/vemulaleelavenkataraviteja/) • [Email](mailto:vemularaviteja06@gmail.com) • [GitHub](https://github.com/raviteja-dev950)
 
 > **102 / 102 Projects Completed — 100% — 20 July 2026 → 06 Nov 2026 — 109 Days — Proof Inside**
 
-[Roadmap](roadmap/102-roadmap-final.png)
+[Roadmap](screenshots/demo7.png)
 
 ---
 
