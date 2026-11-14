@@ -5,7 +5,8 @@
 
 > **102 / 102 Projects Completed — 100% — 20 July 2026 → 06 Nov 2026 — 109 Days — Proof Inside**
 
-[Roadmap](https://raw.githubusercontent.com/raviteja-dev950/102-work-proofs/main/roadmap/102-roadmap-final.png)
+![Roadmap](https://raw.githubusercontent.com/raviteja-dev950/102-work-proofs/main/screenshots/demo7.jpg)
+
 
 ---
 
